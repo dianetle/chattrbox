@@ -1,3 +1,10 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  padding-bottom: 10px
+}
 
       .chat-wrapper {
         display: flex;
